@@ -33,21 +33,21 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 2) Open vocab based model
 
-* **SOM-DST ** 
+* **SOM-DST** 
    *[Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf)* , ACL 2020  | [[Code](https://github.com/clovaai/som-dst)]
 
 
 
 3) Hybrid model (Ontology + Open vocab)
 
-* **DS-DST **
+* **DS-DST**
    *[Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/1910.03544.pdf)* , SEM 2020
 
 
 
 4) etc
 
-* **COCO-DST ** 
+* **COCO-DST** 
   *[COCO: CONTROLLABLE COUNTERFACTUALS FOR EVALUATING DIALOGUE STATE TRACKERS](https://arxiv.org/pdf/2010.12850.pdf)* , ICLR 2021  | [[Code](https://github.com/salesforce/coco-dst)]
 
 
