@@ -10,7 +10,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ### 1. Introduction to DST
 
-<img src = "./img/introduction_dst.png">
+![img](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/355ea9c95b3765221ddbdcceab251926865a3021/Img/introduction_dst.png?raw=true)
 
 **Dialogue state tracking (DST)** is a core component in task-oriented dialogue systems, such as restaurant reservation or ticket booking. The goal of DST is to **extract user goals/intentions expressed during conversation** and **to encode them as a compact set of dialogue states**, i.e., a set of slots and their corresponding values (Wu et al., 2019)
 
