@@ -10,7 +10,11 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ### 1. Introduction to DST
 
-(제가 작성한 자료 + 강의자료 수정해서 적으면 될 것 같아요 , 아무래도 영어로 적는게 좋을듯합니다)
+<img src = './img/DST_intro.pdf'>
+
+**Dialogue state tracking (DST)** is a core component in task-oriented dialogue systems, such as restaurant reservation or ticket booking. The goal of DST is to **extract user goals/intentions expressed during conversation** and **to encode them as a compact set of dialogue states**, i.e., a set of slots and their corresponding values (Wu et al., 2019)
+
+
 
 
 
@@ -27,6 +31,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 1) Ontology based model
 
 * **SUMBT** 
+  
   *[SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/abs/1907.07421)* , ACL 2019 | [[Code](https://github.com/SKTBrain/SUMBT)]
 
 
@@ -34,6 +39,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 2) Open vocab based model
 
 * **SOM-DST** 
+   
    *[Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf)* , ACL 2020  | [[Code](https://github.com/clovaai/som-dst)]
 
 
@@ -41,6 +47,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 3) Hybrid model (Ontology + Open vocab)
 
 * **DS-DST**
+   
    *[Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/1910.03544.pdf)* , SEM 2020
 
 
@@ -48,6 +55,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 4) etc
 
 * **COCO-DST** 
+  
   *[COCO: CONTROLLABLE COUNTERFACTUALS FOR EVALUATING DIALOGUE STATE TRACKERS](https://arxiv.org/pdf/2010.12850.pdf)* , ICLR 2021  | [[Code](https://github.com/salesforce/coco-dst)]
 
 
