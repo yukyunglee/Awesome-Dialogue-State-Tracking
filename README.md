@@ -6,16 +6,20 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 (정리할 자료 : 논문(논문이름,링크,Venue) , 코드링크 , 데이터셋 링크)
 
+Table of contents
 
-## Introduction to DST
 
-![img](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/355ea9c95b3765221ddbdcceab251926865a3021/Img/introduction_dst.png?raw=true)
+
+
+## 📖 Introduction to DST
+
+![img](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/355ea9c95b3765221ddbdcceab251926865a3021/Img/intro_dst.png?raw=true)
 
 **Dialogue state tracking (DST)** is a core component in task-oriented dialogue systems, such as restaurant reservation or ticket booking. The goal of DST is to **extract user goals/intentions expressed during conversation** and **to encode them as a compact set of dialogue states**, i.e., a set of slots and their corresponding values (Wu et al., 2019)
 
 
 
-## DST Research Papers
+## 📝 DST Research Papers
 
 
 
@@ -37,7 +41,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 *	*[HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf)* , Interspeech 2019 | **HyST** | `None`
 
-*	*[Multi-domain dialogue state tracking as dynamic knowledge graph enhanced question answering](https://arxiv.org/pdf/1911.06192.pdf)* , arXiv preprint 2019| **DSTQA** | [[Code](https://github.com/alexa/dstqa)]
+*	*[Multi-domain dialogue state tracking as dynamic knowledge graph enhanced question answering](https://arxiv.org/pdf/1911.06192.pdf)* , arXiv preprint| **DSTQA** | [[Code](https://github.com/alexa/dstqa)]
 
 *	*[Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks](https://speechlab.sjtu.edu.cn/papers/2020/lc918-chen-aaai20.pdf)* , AAAI 2020 | **SST** | `None`
 
@@ -49,13 +53,33 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ### 2. Open vocab based model
 
-*	*[Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf)* , ACL 2020 | **SOM-DST** | [[Code](https://github.com/clovaai/som-dst)]
+* *[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)* , ACL 2019 | **TRADE** | [[Code](https://github.com/jasonwu0731/trade-dst)]
 
+* *[Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation](https://arxiv.org/pdf/1909.00754v2.pdf)* , IJCNLP 2019 | **COMER** | [[Code](https://github.com/renll/ComerNet)]
 
+* *[Non-Autoregressive Dialog State Tracking](https://openreview.net/pdf?id=H1e_cC4twS)* , ICLR 2020 | **NADST** | [[Code](https://github.com/henryhungle/NADST)]
+
+* *[SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing](https://www.aclweb.org/anthology/2020.acl-main.567.pdf)* , ACL 2020 | **SAS** | `None`
+
+* *[Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf)* , ACL 2020 | **SOM-DST** | [[Code](https://github.com/clovaai/som-dst)]
+
+* *[Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking](https://arxiv.org/pdf/2004.03386v4.pdf)* , Findings of ACL 2020 | **CSFN-DST** | `None`
+
+* *[Multi-Domain Dialogue State Tracking based on State Graph](https://arxiv.org/pdf/2010.11137.pdf)* , arXiv preprint | **Graph-DST** | `None`
+
+* *[GCDST: A Graph-based and Copy-augmented Multi-domain Dialogue State Tracking](https://www.aclweb.org/anthology/2020.findings-emnlp.95.pdf)* , Findings of ACL 2020 | **GCDST** | `None`
+
+* *[Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking](https://www.aclweb.org/anthology/2020.emnlp-main.151.pdf)* , ACL 2020 | **SAVN** | [[Code](https://github.com/wyxlzsq/savn)]
+
+* *[Parallel Interactive Networks for Multi-Domain Dialogue State Generation](https://www.aclweb.org/anthology/2020.emnlp-main.151.pdf)* , EMNLP 2020 | **PIN** | [[Code](https://github.com/zengyan-97/Transformer-DST)]
+
+* *[TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking](https://arxiv.org/pdf/2005.02877.pdf)* , SIGDAL 2020 | **TripPy** | [[Code](https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public)]
+
+* *[Jointly Optimizing State Operation Prediction and Value Generation for Dialogue State Tracking](https://arxiv.org/pdf/2010.14061.pdf)* , ACL 2021 | **Transformer-DST** | [[Code](https://github.com/zengyan-97/Transformer-DST)]
+
+  
 
 ### 3. Hybrid model (Ontology + Open vocab)
-
-
 
 *	*[Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/1910.03544.pdf)* , SEM 2020 | **DS-DST** | `None`
 
