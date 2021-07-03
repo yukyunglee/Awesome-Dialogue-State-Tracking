@@ -61,13 +61,19 @@ Table of contents
 
 * *[Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation](https://arxiv.org/pdf/1909.00754v2.pdf)* , IJCNLP 2019 | **COMER** | [[Code](https://github.com/renll/ComerNet)]
 
+* [CREDIT: Coarse-to-Fine Sequence Generation for Dialogue State Tracking](https://arxiv.org/pdf/2009.10435.pdf) , arXiv preprint 2020 | **CREDIT** | `None`
+
 * *[Non-Autoregressive Dialog State Tracking](https://openreview.net/pdf?id=H1e_cC4twS)* , ICLR 2020 | **NADST** | [[Code](https://github.com/henryhungle/NADST)]
 
 * *[SimpleTOD: A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/pdf/2005.00796.pdf)* , NeurIPS 2020 | **SimpleTOD** | [[Code](https://github.com/salesforce/simpletod)]
 
 * *[SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing](https://www.aclweb.org/anthology/2020.acl-main.567.pdf)* , ACL 2020 | **SAS** | `None`
 
+* [From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap](https://arxiv.org/pdf/2004.05827.pdf) , ACL 2020 | **STARC ** | `None`
+
 * *[Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf)* , ACL 2020 | **SOM-DST** | [[Code](https://github.com/clovaai/som-dst)]
+
+* [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2](https://aclanthology.org/2020.acl-main.54.pdf) , ACL 2020 | **NP-DST** | `None` 
 
 * *[Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking](https://arxiv.org/pdf/2004.03386v4.pdf)* , Findings of ACL 2020 | **CSFN-DST** | `None`
 
@@ -134,6 +140,8 @@ Table of contents
 
 
 ### 3. SGD (Schema-Guided Dialogue)
+
+* [A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/pdf/2008.12335.pdf) , KDD 2020 | **FastSGT** | [[Code](https://github.com/NVIDIA/NeMo)]
 
 * *[A Sequence-to-Sequence Approach to Dialogue State Tracking](https://arxiv.org/pdf/2011.09553.pdf)* , ACL 2021 | **Seq2Seq-DU** | [[Code](https://github.com/sweetalyssum/Seq2Seq-DU)]
 
