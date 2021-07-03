@@ -37,7 +37,7 @@ Table of contents
 
 ### 1. MultiWOZ (Multi-domain Wizard-of-Oz)
 
-####1) Ontology based model
+#### 1) Ontology based model
 
 * *[SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/pdf/1907.07421.pdf)* , ACL 2019 | **SUMBT** | [[Code](https://github.com/SKTBrain/SUMBT)]
 
@@ -53,7 +53,7 @@ Table of contents
 
 
 
-####2) Open vocab based model
+#### 2) Open vocab based model
 
 * *[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)* , ACL 2019 | **TRADE** | [[Code](https://github.com/jasonwu0731/trade-dst)]
 
@@ -95,7 +95,7 @@ Table of contents
 
   
 
-####3) Hybrid model (Ontology + Open vocab)
+#### 3) Hybrid model (Ontology + Open vocab)
 
 * *[Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/1910.03544.pdf)* , SEM 2020 | **DS-DST** | `None`
 
@@ -117,7 +117,7 @@ Table of contents
 
   
 
-####5) etc
+#### 5) etc
 
 * *[Recent Advances and Challenges in Task-oriented Dialog Systems](https://arxiv.org/pdf/2003.07490.pdf)* , SCTS
 
