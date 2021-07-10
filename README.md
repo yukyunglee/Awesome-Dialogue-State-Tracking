@@ -10,9 +10,9 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ##### Table of Contents  
 
-[📖 Introduction to DST](##---introduction-to-dst)
+[📖 Introduction to DST](#--introduction-to-dst)
 
-[📝 DST Research Papers](#---dst-research-papers)
+[📝 DST Research Papers](#--dst-research-papers)
 
 ​	[1. MultiWOZ (Multi-domain Wizard-of-Oz)](#1-multiwoz--multi-domain-wizard-of-oz-)
 
@@ -24,7 +24,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ​	[1. Single Domain](#1-single-domain)
 
-​	[2. Multi Domain](#2-multi--domain)
+​	[2. Multi Domain](#2-multi-domain)
 
 ​		[English](#english)
 
