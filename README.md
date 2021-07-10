@@ -10,7 +10,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ##### Table of Contents  
 
-[📖 Introduction to DST](#---introduction-to-dst)
+[📖 Introduction to DST](##---introduction-to-dst)
 
 [📝 DST Research Papers](#---dst-research-papers)
 
