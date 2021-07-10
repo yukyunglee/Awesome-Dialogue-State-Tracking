@@ -69,7 +69,7 @@ Table of contents
 
 * *[SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing](https://www.aclweb.org/anthology/2020.acl-main.567.pdf)* , ACL 2020 | **SAS** | `None`
 
-* *[From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap](https://arxiv.org/pdf/2004.05827.pdf)* , ACL 2020 | **STARC ** | `None`
+* *[From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap](https://arxiv.org/pdf/2004.05827.pdf)* , ACL 2020 | **STARC** | `None`
 
 * *[Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://arxiv.org/pdf/1911.03906.pdf)* , ACL 2020 | **SOM-DST** | [[Code](https://github.com/clovaai/som-dst)]
 
@@ -140,10 +140,10 @@ Table of contents
 
 * *[Neural Belief Tracker: Data-Driven Dialogue State Tracking](https://arxiv.org/pdf/1606.03777v2.pdf)* , ACL 2017 | `None` | `None`
 * *[Towards Universal Dialogue State Tracking](https://arxiv.org/pdf/1810.09587v1.pdf)* , EMNLP 2018 | **StateNet** | [[Code](https://github.com/renll/StateNet)]
-* *[Toward Scalable Neural Dialogue State Tracking](https://arxiv.org/pdf/1812.00899.pdf)* , NeurIPS 2018 | **GCE ** | [[Code](https://github.com/elnaaz/GCE-Model)]
-* *[Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655v3.pdf)* , ACL 2018 | **GLAD ** | [[Code](https://github.com/salesforce/glad)]
-* *[Scalable Neural Dialogue State Tracking](https://arxiv.org/pdf/1910.09942.pdf)* , ASRU 2019 | **G-SAT ** | [[Code](https://github.com/vevake/GSAT)]
-* *[MA-DST: Multi-Attention-Based Scalable Dialog State Tracking](https://arxiv.org/pdf/2002.08898.pdf)* , AAAI 2020 | **MA-DST ** | `None`
+* *[Toward Scalable Neural Dialogue State Tracking](https://arxiv.org/pdf/1812.00899.pdf)* , NeurIPS 2018 | **GCE** | [[Code](https://github.com/elnaaz/GCE-Model)]
+* *[Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655v3.pdf)* , ACL 2018 | **GLAD** | [[Code](https://github.com/salesforce/glad)]
+* *[Scalable Neural Dialogue State Tracking](https://arxiv.org/pdf/1910.09942.pdf)* , ASRU 2019 | **G-SAT** | [[Code](https://github.com/vevake/GSAT)]
+* *[MA-DST: Multi-Attention-Based Scalable Dialog State Tracking](https://arxiv.org/pdf/2002.08898.pdf)* , AAAI 2020 | **MA-DST** | `None`
 * *[TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue](https://arxiv.org/pdf/2004.06871.pdf)* , EMNLP 2020 | **TOD-BERT** | [[Code](https://github.com/jasonwu0731/ToD-BERT)]
 * *[Neural Dialogue State Tracking with Temporally Expressive Networks](https://aclanthology.org/2020.findings-emnlp.142.pdf)* , Findings of EMNLP 2020 | **TEN** | [[Code](https://github.com/BDBC-KG-NLP/TEN_EMNLP2020)]
 * *[A Sequence-to-Sequence Approach to Dialogue State Tracking](https://arxiv.org/pdf/2011.09553.pdf)* , ACL 2021 | **Seq2Seq-DU** | [[Code](https://github.com/sweetalyssum/Seq2Seq-DU)]
