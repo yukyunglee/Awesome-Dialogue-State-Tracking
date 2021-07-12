@@ -8,23 +8,23 @@
 
 #### [Table of Contents]
 
-[📖 Introduction to DST](#-1--introduction-to-dst)
+[📖 Introduction to DST](#1-introduction-to-dst)
 
-[📝 DST Research Papers](#-2--dst-research-papers)
+[📝 DST Research Papers](#2-dst-research-papers)
 
-&nbsp;&ensp;&emsp;[1. MultiWOZ (Multi-domain Wizard-of-Oz)](#1-multiwoz--multi-domain-wizard-of-oz-)
+&nbsp;&ensp;&emsp;[1. MultiWOZ (Multi-domain Wizard-of-Oz)](#1-multiwoz-multi-domain-wizard-of-oz)
 
-&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[1) Ontology based model](#1--ontology-based-model)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[1) Ontology based model](#1-ontology-based-model)
 
-&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[2) Open vocab based model](#2--open-vocab-based-model)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[2) Open vocab based model](#2-open-vocab-based-model)
 
-&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[3) Hybrid model (Ontology + Open vocab)](#3--Hybrid-model--ontology---open-vocab)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[3) Hybrid model (Ontology + Open vocab)](#3-Hybrid-model-ontology-open-vocab)
 
-&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[4) Zero,Few-Shot / Meta / Transfer learning](#4--zero-few-shot---meta---transfer-learning)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[4) Zero,Few-Shot / Meta / Transfer learning](#4-zero-few-shot-meta-transfer-learning)
 
-&nbsp;&ensp;&emsp;[2. WOZ (Wizard-of-Oz)](#2-woz--wizard-of-oz-)
+&nbsp;&ensp;&emsp;[2. WOZ (Wizard-of-Oz)](#2-woz-wizard-of-oz)
 
-&nbsp;&ensp;&emsp;[3. SGD (Schema-Guided Dialogue)](#3-sgd--schema-guided-dialogue-)
+&nbsp;&ensp;&emsp;[3. SGD (Schema-Guided Dialogue)](#3-sgd-schema-guided-dialogue)
 
 [🗂 Datasets](#-3--datasets)
 
