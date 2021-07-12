@@ -46,7 +46,7 @@
 
 ---
 
-## [1] 📖 Introduction to DST
+## [1] Introduction to DST
 
 
 ![img1](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/6d1a4f5bd2dc619c8dac08138182c92bb900730d/Img/%231.png)
@@ -59,7 +59,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 
-## [2] 📝 DST Research Papers
+## [2] DST Research Papers
 
 
 ✅ **Paper name, Venue | Model name | [Code]**
@@ -203,7 +203,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 ###
-## [3] 🗂 Datasets
+## [3] Datasets
 
 ### 1. Single Domain
 
@@ -257,7 +257,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 ###
-## [4] 🏆 Competition (DSTC)
+## [4] Competition (DSTC)
 
 ### 1. Introduction
 
