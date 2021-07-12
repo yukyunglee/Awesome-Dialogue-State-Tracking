@@ -145,7 +145,6 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 ###
 ### 2. WoZ (Wizard-of-Oz)
 
-논문에서 Openvocab, Onotolgy based model 이라는 개념으로 크게 구분되지는 않음
 
 * *[Neural Belief Tracker: Data-Driven Dialogue State Tracking](https://arxiv.org/pdf/1606.03777v2.pdf)* , ACL 2017 | `None` | `None`
 
