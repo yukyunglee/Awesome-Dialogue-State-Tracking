@@ -4,11 +4,9 @@
 
 Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
-(정리할 자료 : 논문(논문이름,링크,Venue) , 코드링크 , 데이터셋 링크)
 
 
-
-##### Table of Contents  
+#### Table of Contents  
 
 [📖 Introduction to DST](#-1--introduction-to-dst)
 
@@ -18,7 +16,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ​		[1) Ontology based model](#1--ontology-based-model)
 
-​		[2) Open vocab based model](#2--Open vocab based model)
+​		[2) Open vocab based model](#2--open vocab based model)
 
 [🗂 Datasets](#-3--datasets)
 
@@ -37,6 +35,8 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 [🏆 Competition](#-4--competition)
 
 
+
+
 ## [1] Introduction to DST
 
 ![img1](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/6d1a4f5bd2dc619c8dac08138182c92bb900730d/Img/%231.png)
@@ -46,6 +46,8 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 ![img2](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/6d1a4f5bd2dc619c8dac08138182c92bb900730d/Img/%232.png)
 
 Dialogue State Tracking can be **categorized into several approaches**. In this repository, we divided the dst approach as shown.
+
+
 
 ## [2] DST Research Papers
 
@@ -192,8 +194,6 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 
-
-
 ## [3] Datasets
 
 ### 1. Single Domain
@@ -243,14 +243,31 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 * *[CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset](https://www.aclweb.org/anthology/2020.tacl-1.19.pdf)* , TACL | **CrossWOZ** | ch | [[Dataset](https://github.com/thu-coai/CrossWOZ)]
 
+
+
+
+
 ## [4] Competition
 
 ### 1. Introduction
 
-DSTC는 Dialogue System분야에서 가장 유명한 대회입니다. 2013년에 처음으로 개최되었으며, DSTC는 Dialogue State Tracking Challenge로 시작되었으나 dialogue 관련 분야가 활발히 연구되기 시작하면서 부터 Dialogue System Technology Challenges로 재런칭 되어 진행되고있습니다.  NLP, Vision, Speech 등 분야에 agnostic한 dialogue 문제들을 다룹니다.  현재는 10번째 챌린지가 진행되고 있으며, 총 5가지의 track으로 나누어 진행됩니다. DSTC에 대해 보다 자세한 내용은 [링크](https://sites.google.com/dstc.community/dstc10/)에서 확인할 수 있습니다. 
+**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related fields have been actively researched, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC deals with dialogue issues in various fields such as NLP, Vision, and Speech. The 10th challenge is currently in progress and is divided into a total of 5 tracks. More information about DSTC can be found at the [link](https://sites.google.com/dstc.community/dstc10/).
+
+
 
 ### 2. Related Papers
 
 * *[An Empirical Study of Cross-Lingual Transferability in Generative Dialogue State Tracker](https://arxiv.org/pdf/2101.11360.pdf)* , DSTC9 Workshop - AAAI  | `None`
 
 * *[Efficient Dialogue State Tracking by Masked Hierarchical Transformer](https://arxiv.org/pdf/2106.14433.pdf)* , DSTC9 Workshop - AAAI | `None`
+
+
+
+
+
+#### 💌 Contect Us
+
+**Yukyung Lee | Korea University | yukyung_lee@korea.ac.kr**
+
+**Kyumin Park | Korea Advanced Institute of Science and Technology | pkm9403@gmail.com**
+
