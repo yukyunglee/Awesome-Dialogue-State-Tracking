@@ -263,7 +263,7 @@
 
 ### 1. Introduction
 
-**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related fields have been actively researched, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC deals with dialogue issues in various fields such as NLP, Vision, and Speech. The 10th challenge is currently in progress and is divided into a total of 5 tracks. More information about DSTC can be found at the [link](https://sites.google.com/dstc.community/dstc10/).
+**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related fields have been actively researched, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC covers the various subjects of dialogue issues such as NLP, Vision, and Speech. The 10th challenge is now taking place with a total of 5 tracks. More information about DSTC can be found at the [link](https://sites.google.com/dstc.community/dstc10/).
 
 
 
