@@ -137,7 +137,7 @@
 
 * *[Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking](https://arxiv.org/pdf/2002.00181.pdf)* , AAAI 2020 | **SGP-DST** | `None`
 
-* *[Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)* , ACL 2020 | [[Code](https://github.com/stanford-oval/zero-shot-multiwoz-acl2020)]
+* *[Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)* , ACL 2020 | `None` | [[Code](https://github.com/stanford-oval/zero-shot-multiwoz-acl2020)]
 
 * *[MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/2009.12005.pdf)* , EMNLP 2020 | **MinTL** | [[Code](https://github.com/zlinao/MinTL)] 
 
@@ -168,6 +168,8 @@
 
 * *[Scalable Neural Dialogue State Tracking](https://arxiv.org/pdf/1910.09942.pdf)* , ASRU 2019 | **G-SAT** | [[Code](https://github.com/vevake/GSAT)]
 
+* *[A Simple but Effective BERT Model for Dialog State Tracking on Resource-Limited Systems](https://arxiv.org/pdf/1910.12995.pdf)* , ICASSP 2020 | `None` | `None`
+
 * *[MA-DST: Multi-Attention-Based Scalable Dialog State Tracking](https://arxiv.org/pdf/2002.08898.pdf)* , AAAI 2020 | **MA-DST** | `None`
 
 * *[TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue](https://arxiv.org/pdf/2004.06871.pdf)* , EMNLP 2020 | **TOD-BERT** | [[Code](https://github.com/jasonwu0731/ToD-BERT)]
@@ -181,6 +183,7 @@
 ### 3. SGD (Schema-Guided Dialogue)
 
 * *[A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/pdf/2008.12335.pdf)* , KDD 2020 | **FastSGT** | [[Code](https://github.com/NVIDIA/NeMo)]
+
 * *[A Sequence-to-Sequence Approach to Dialogue State Tracking](https://arxiv.org/pdf/2011.09553.pdf)* , ACL 2021 | **Seq2Seq-DU** | [[Code](https://github.com/sweetalyssum/Seq2Seq-DU)]
 
 
@@ -189,7 +192,7 @@
 
 * *[Recent Advances and Challenges in Task-oriented Dialog Systems](https://arxiv.org/pdf/2003.07490.pdf)* , SCTS | `None` | `None`
 
-* *[Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf)* , EMNLP 2020 | [[Code](https://github.com/kaniblu/vhda)]
+* *[Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf)* , EMNLP 2020 | `None` | [[Code](https://github.com/kaniblu/vhda)]
 
 * *[DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/pdf/2009.13570.pdf)* , arXiv preprint | **DialoGLUE** | [[Code](https://github.com/alexa/dialoglue)]
 
@@ -211,7 +214,7 @@
 
 ### 1. Single Domain
 
-* *[The Dialog State Tracking Challenge](https://www.aclweb.org/anthology/W13-4065.pdf)* , SIGDIAL 2013 | **DSTC** | en |[[Dataset](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/#!dstc1-downloads)]
+* *[The Dialog State Tracking Challenge](https://www.aclweb.org/anthology/W13-4065.pdf)* , SIGDIAL 2013 | **DSTC** | en | [[Dataset](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/#!dstc1-downloads)]
 
 * *[The Second Dialog State Tracking Challenge](https://www.aclweb.org/anthology/W14-4337.pdf)* , SIGDIAL 2014 | **DSTC2** | en | [[Dataset](https://github.com/matthen/dstc)]
 
@@ -271,9 +274,11 @@
 
 ### 2. Related Papers
 
-* *[An Empirical Study of Cross-Lingual Transferability in Generative Dialogue State Tracker](https://arxiv.org/pdf/2101.11360.pdf)* , DSTC9 Workshop - AAAI  | `None`
+✅ **Paper name, Competition | Model name | [Code]**
 
-* *[Efficient Dialogue State Tracking by Masked Hierarchical Transformer](https://arxiv.org/pdf/2106.14433.pdf)* , DSTC9 Workshop - AAAI | `None`
+* *[An Empirical Study of Cross-Lingual Transferability in Generative Dialogue State Tracker](https://arxiv.org/pdf/2101.11360.pdf)* , DSTC9 Workshop - AAAI  | `None` | `None`
+
+* *[Efficient Dialogue State Tracking by Masked Hierarchical Transformer](https://arxiv.org/pdf/2106.14433.pdf)* , DSTC9 Workshop - AAAI | `None` | `None`
 
 
 
