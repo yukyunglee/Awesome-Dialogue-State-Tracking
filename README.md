@@ -201,6 +201,8 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 * *[AirDialogue: An Environment for Goal-Oriented Dialogue Research](https://www.aclweb.org/anthology/D18-1419.pdf)* , EMNLP 2018 | **AirDialogue** | en | [[Dataset](https://github.com/google/airdialogue)]
 
+* *[HDRS: Hindi Dialogue Restaurant Search Corpus for Dialogue State Tracking in Task-Oriented Environment](https://ieeexplore.ieee.org/document/9376978)* , TASLP | **HDRS** | hi | [[Dataset](https://github.com/skmalviya/HDRS-Corpus)]
+
 ### 2. Multi Domain
 
 #### English
@@ -233,9 +235,6 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 #### Chinese
 
 * *[CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset](https://www.aclweb.org/anthology/2020.tacl-1.19.pdf)* , TACL | **CrossWOZ** | ch | [[Dataset](https://github.com/thu-coai/CrossWOZ)]
-
-#### Hindi
-* *[HDRS: Hindi Dialogue Restaurant Search Corpus for Dialogue State Tracking in Task-Oriented Environment](https://ieeexplore.ieee.org/document/9376978)* , TASLP | **HDRS** | hi | [[Dataset](https://github.com/skmalviya/HDRS-Corpus)]
 
 ## 🏆 Competition
 
