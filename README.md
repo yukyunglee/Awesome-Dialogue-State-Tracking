@@ -6,7 +6,7 @@
 ###
 ###
 
-#### [Table of Contents]
+### [Table of Contents]
 
 [📖 Introduction to DST](#1-introduction-to-dst)
 
@@ -189,7 +189,7 @@
 
 * *[Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf)* , EMNLP 2020 | [[Code](https://github.com/kaniblu/vhda)]
 
-* *[DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/pdf/2009.13570.pdf)* , arXicv preprint | **DialoGLUE** | [[Code](https://github.com/alexa/dialoglue)]
+* *[DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/pdf/2009.13570.pdf)* , arXiv preprint | **DialoGLUE** | [[Code](https://github.com/alexa/dialoglue)]
 
 * *[COCO: CONTROLLABLE COUNTERFACTUALS FOR EVALUATING DIALOGUE STATE TRACKERS](https://arxiv.org/pdf/2010.12850.pdf)* , ICLR 2021 | **CoCo** | [[Code](https://github.com/salesforce/coco-dst)]
 
