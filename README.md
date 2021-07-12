@@ -133,6 +133,8 @@
 
 #### 4) Zero,Few-Shot / Meta / Transfer learning
 
+* *[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)* , ACL 2019 | **TRADE** | [[Code](https://github.com/jasonwu0731/trade-dst)]
+
 * *[Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking](https://arxiv.org/pdf/2002.00181.pdf)* , AAAI 2020 | **SGP-DST** | `None`
 
 * *[Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)* , ACL 2020 | [[Code](https://github.com/stanford-oval/zero-shot-multiwoz-acl2020)]
@@ -148,6 +150,8 @@
 * *[Domain Adaptive Meta-learning for Dialogue State Tracking](https://ieeexplore.ieee.org/abstract/document/9431715)* , TASLP | **DAMAML** | [[Code](https://github.com/DeepLearnXMU/DAMAML)]
 
 * *[Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/2106.00291.pdf)* , ACL 2021 | **ScCLog** | `None`
+
+* *[NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation](https://arxiv.org/pdf/2105.14454.pdf)* , ACL 2021 | **NeuralWOZ** | [[Code](https://github.com/naver-ai/neuralwoz)]
 
 
 ###
@@ -193,8 +197,6 @@
 
 * *[A Comparative Study on Schema-Guided Dialogue State Tracking](https://www.aclweb.org/anthology/2021.naacl-main.62.pdf)* , NAACL 2021 | `None` | `None`
 
-* *[NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation](https://arxiv.org/pdf/2105.14454.pdf)* , ACL 2021 | **NeuralWOZ** | [[Code](https://github.com/naver-ai/neuralwoz)]
-
 * *[Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?](https://arxiv.org/pdf/2105.03571.pdf)* , ACL 2021 | `None` | [[Code](https://github.com/yangpuhai/Granularity-in-DST)]
 
 * *[Coreference Augmentation for Multi-Domain Task-Oriented Dialogue State Tracking](https://arxiv.org/pdf/2106.08723.pdf)* , Interspeech 2021 | **CDST** | `None`
@@ -204,6 +206,8 @@
 
 ###
 ## [3] Datasets
+
+✅ **Paper name, Venue | Dataset name | Language | [Code]**
 
 ### 1. Single Domain
 
@@ -253,7 +257,7 @@
 
 * *[CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset](https://www.aclweb.org/anthology/2020.tacl-1.19.pdf)* , TACL | **CrossWOZ** | ch | [[Dataset](https://github.com/thu-coai/CrossWOZ)]
 
-
+* *[RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling](https://aclanthology.org/2020.emnlp-main.67.pdf)* , EMNLP 2020 | **RiSAWOZ** | ch | [[Dataset](https://github.com/terryqj0107/RiSAWOZ)]
 
 
 ###
@@ -261,7 +265,7 @@
 
 ### 1. Introduction
 
-**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related fields have been actively researched, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC covers the various subjects of dialogue issues such as NLP, Vision, and Speech. The 10th challenge is now taking place with a total of 5 tracks. More information about DSTC can be found at the [link](https://sites.google.com/dstc.community/dstc10/).
+**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related researches have been actively expanded, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC covers the various subjects of dialogue issues such as NLP, Vision, and Speech. The 10th challenge is now taking place with a total of 5 tracks. More information about DSTC can be found at the [link](https://sites.google.com/dstc.community/dstc10/).
 
 
 
