@@ -6,7 +6,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 
 
-#### Table of Contents  
+#### 📋 Table of Contents  
 
 [📖 Introduction to DST](#-1--introduction-to-dst)
 
@@ -16,7 +16,7 @@ Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
 
 ​		[1) Ontology based model](#1--ontology-based-model)
 
-​		[2) Open vocab based model](#2--open vocab based model)
+​		[2) Open vocab based model](#2--open-vocab-based-model)
 
 [🗂 Datasets](#-3--datasets)
 
@@ -267,7 +267,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 #### 💌 Contect Us
 
-**Yukyung Lee | Korea University | yukyung_lee@korea.ac.kr**
+> **Yukyung Lee | Korea University | yukyung_lee@korea.ac.kr**
 
-**Kyumin Park | Korea Advanced Institute of Science and Technology | pkm9403@gmail.com**
+> **Kyumin Park | Korea Advanced Institute of Science and Technology | pkm9403@gmail.com**
 
