@@ -55,7 +55,7 @@
 
 ![img2](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/6d1a4f5bd2dc619c8dac08138182c92bb900730d/Img/%232.png)
 
-Dialogue State Tracking can be **categorized into several approaches**. In this repository, we divided the dst approach as shown.
+**Dialogue State Tracking (DST)** can be **categorized into several approaches**. In this repository, we divided the dst approach as shown.
 
 
 
