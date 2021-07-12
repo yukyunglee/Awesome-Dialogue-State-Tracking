@@ -40,8 +40,6 @@
 
 &nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Chinese](#chinese)
 
-&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Hindi](#hindi)		
-
 [🏆 Competition](#4-competition-dstc)
 
 
