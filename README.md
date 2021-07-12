@@ -2,42 +2,44 @@
 
 # Awesome Dialogue State Tracking
 
-Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources
+**Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
+###
+###
 
-
-
-#### 📋 Table of Contents  
+#### [Table of Contents]
 
 [📖 Introduction to DST](#-1--introduction-to-dst)
 
 [📝 DST Research Papers](#-2--dst-research-papers)
 
-​	[1. MultiWOZ (Multi-domain Wizard-of-Oz)](#1-multiwoz--multi-domain-wizard-of-oz-)
+&nbsp;&ensp;&emsp;[1. MultiWOZ (Multi-domain Wizard-of-Oz)](#1-multiwoz--multi-domain-wizard-of-oz-)
 
-​		[1) Ontology based model](#1--ontology-based-model)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[1) Ontology based model](#1--ontology-based-model)
 
-​		[2) Open vocab based model](#2--open-vocab-based-model)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[2) Open vocab based model](#2--open-vocab-based-model)
 
 [🗂 Datasets](#-3--datasets)
 
-​	[1. Single Domain](#1-single-domain)
+&nbsp;&ensp;&emsp;[1. Single Domain](#1-single-domain)
 
-​	[2. Multi Domain](#2-multi-domain)
+&nbsp;&ensp;&emsp;[2. Multi Domain](#2-multi-domain)
 
-​		[English](#english)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[English](#english)
 
-​		[Korean](#korean)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Korean](#korean)
 
-​		[Chinese](#chinese)
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Chinese](#chinese)
 
-​		[Hindi](#hindi)		
+&nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Hindi](#hindi)		
 
 [🏆 Competition](#-4--competition)
 
 
 
+---
 
 ## [1] Introduction to DST
+
 
 ![img1](https://github.com/yukyunglee/Awesome-Dialogue-State-Tracking/blob/6d1a4f5bd2dc619c8dac08138182c92bb900730d/Img/%231.png)
 
@@ -54,7 +56,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 ✅ **Paper name, Venue | Model name | [Code]**
 
-
+###
 ### 1. MultiWOZ (Multi-domain Wizard-of-Oz)
 
 #### 1) Ontology based model
@@ -140,7 +142,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 * *[Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/2106.00291.pdf)* , ACL 2021 | **ScCLog** | `None`
 
 
-
+###
 ### 2. WoZ (Wizard-of-Oz)
 
 논문에서 Openvocab, Onotolgy based model 이라는 개념으로 크게 구분되지는 않음
@@ -164,14 +166,14 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 * *[A Sequence-to-Sequence Approach to Dialogue State Tracking](https://arxiv.org/pdf/2011.09553.pdf)* , ACL 2021 | **Seq2Seq-DU** | [[Code](https://github.com/sweetalyssum/Seq2Seq-DU)]
 
 
-
+###
 ### 3. SGD (Schema-Guided Dialogue)
 
 * *[A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/pdf/2008.12335.pdf)* , KDD 2020 | **FastSGT** | [[Code](https://github.com/NVIDIA/NeMo)]
 * *[A Sequence-to-Sequence Approach to Dialogue State Tracking](https://arxiv.org/pdf/2011.09553.pdf)* , ACL 2021 | **Seq2Seq-DU** | [[Code](https://github.com/sweetalyssum/Seq2Seq-DU)]
 
 
-
+###
 ### 4. etc.
 
 * *[Recent Advances and Challenges in Task-oriented Dialog Systems](https://arxiv.org/pdf/2003.07490.pdf)* , SCTS | `None` | `None`
@@ -193,7 +195,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 
-
+###
 ## [3] Datasets
 
 ### 1. Single Domain
@@ -210,6 +212,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 * *[HDRS: Hindi Dialogue Restaurant Search Corpus for Dialogue State Tracking in Task-Oriented Environment](https://ieeexplore.ieee.org/document/9376978)* , TASLP | **HDRS** | hi | [[Dataset](https://github.com/skmalviya/HDRS-Corpus)]
 
+###
 ### 2. Multi Domain
 
 #### English
@@ -246,7 +249,7 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 
-
+###
 ## [4] Competition
 
 ### 1. Introduction
@@ -264,8 +267,8 @@ Dialogue State Tracking can be **categorized into several approaches**. In this 
 
 
 
-
-#### 💌 Contect Us
+###
+#### 💌 Contact Us
 
 > **Yukyung Lee | Korea University | yukyung_lee@korea.ac.kr**
 
