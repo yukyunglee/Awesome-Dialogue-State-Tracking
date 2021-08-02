@@ -4,16 +4,16 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅  Last update : 21.08.02*
+*✅ &nbsp;Last update : 21.08.02*
 
 ###
 ###
 
 ### [Table of Contents]
 
-[📖 Introduction to DST](#1-introduction-to-dst)
+[📖&nbsp; Introduction to DST](#1-introduction-to-dst)
 
-[📝 DST Research Papers](#2-dst-research-papers)
+[📝&nbsp; DST Research Papers](#2-dst-research-papers)
 
 &nbsp;&ensp;&emsp;[1. MultiWOZ (Multi-domain Wizard-of-Oz)](#1-multiwoz-multi-domain-wizard-of-oz)
 
@@ -31,7 +31,7 @@
 
 &nbsp;&ensp;&emsp;[4. etc](#4-etc)
 
-[🗂 Datasets](#-3-datasets)
+[🗂&nbsp; Datasets](#-3-datasets)
 
 &nbsp;&ensp;&emsp;[1. Single Domain](#1-single-domain)
 
@@ -43,7 +43,7 @@
 
 &nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Chinese](#chinese)
 
-[🏆 Competition](#4-competition-dstc)
+[🏆&nbsp; Competition](#4-competition-dstc)
 
 
 
@@ -65,7 +65,7 @@
 ## [2] DST Research Papers
 
 
-✅ **Paper name, Venue | Model name | [Code]**
+✅&nbsp; **Paper name, Venue | Model name | [Code]**
 
 ###
 ### 1. MultiWOZ (Multi-domain Wizard-of-Oz)
@@ -217,7 +217,7 @@
 ###
 ## [3] Datasets
 
-✅ **Paper name, Venue | Dataset name | Language | [Code]**
+✅&nbsp; **Paper name, Venue | Dataset name | Language | [Code]**
 
 ### 1. Single Domain
 
@@ -281,7 +281,7 @@
 
 ### 2. Related Papers
 
-✅ **Paper name, Competition | Model name | [Code]**
+✅&nbsp; **Paper name, Competition | Model name | [Code]**
 
 * *[An Empirical Study of Cross-Lingual Transferability in Generative Dialogue State Tracker](https://arxiv.org/pdf/2101.11360.pdf)* , DSTC9 Workshop - AAAI  | `None` | `None`
 
@@ -291,7 +291,7 @@
 
 
 ###
-#### 💌 Contact Us
+#### 💌&nbsp; Contact Us
 
 > **Yukyung Lee | Korea University | yukyung_lee@korea.ac.kr**
 
