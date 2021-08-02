@@ -131,6 +131,7 @@
 #### 3) Hybrid model (Ontology + Open vocab)
 
 * *[Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/1910.03544.pdf)* , SEM 2020 | **DS-DST** | `None`
+*  *[Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking](https://arxiv.org/pdf/2107.12578.pdf)* , ACL 2021 | **DSS-DST** | [[Code](https://github.com/guojinyu88/DSSDST)]
 
 
 
