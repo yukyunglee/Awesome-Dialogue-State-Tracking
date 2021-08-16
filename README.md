@@ -4,7 +4,7 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅ &nbsp;Last update : 21.08.14*
+*✅ &nbsp;Last update : 21.08.16*
 
 ###
 ###
@@ -208,17 +208,12 @@
 ### 5. etc.
 
 * *[Recent Advances and Challenges in Task-oriented Dialog Systems](https://arxiv.org/pdf/2003.07490.pdf)* , SCTS | `None` | `None`
-
 * *[Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf)* , EMNLP 2020 | `None` | [[Code](https://github.com/kaniblu/vhda)]
-
 * *[Tutorial : Deeper Conversational AI](https://neurips.cc/media/Slides/nips/2020/virtual(07-08-00)-07-08-00UTC-16657-track2_deeper.pdf)* , NeurIPS 2020 | `None` | `None` 
-
+* *[Out-of-Task Training for Dialog State Tracking Models](https://aclanthology.org/2020.coling-main.596.pdf)* , COLING 2020 | **Trippy** variant |[[Code](https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public)]
 * *[DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/pdf/2009.13570.pdf)* , arXiv preprint | **DialoGLUE** | [[Code](https://github.com/alexa/dialoglue)]
-
 * *[A Comparative Study on Schema-Guided Dialogue State Tracking](https://www.aclweb.org/anthology/2021.naacl-main.62.pdf)* , NAACL 2021 | `None` | `None`
-
 * *[Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?](https://arxiv.org/pdf/2105.03571.pdf)* , ACL 2021 | `None` | [[Code](https://github.com/yangpuhai/Granularity-in-DST)]
-
 * *[Coreference Augmentation for Multi-Domain Task-Oriented Dialogue State Tracking](https://arxiv.org/pdf/2106.08723.pdf)* , Interspeech 2021 | **CDST** | `None`
 
 
