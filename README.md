@@ -4,7 +4,7 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅ &nbsp;Last update : 21.08.16*
+*✅ &nbsp;Last update : 21.08.20*
 
 ###
 ###
@@ -124,7 +124,7 @@
 
 * *[A Sequence-to-Sequence Approach to Dialogue State Tracking](https://arxiv.org/pdf/2011.09553.pdf)* , ACL 2021 | **Seq2Seq-DU** | [[Code](https://github.com/sweetalyssum/Seq2Seq-DU)]
 
-* *[Jointly Optimizing State Operation Prediction and Value Generation for Dialogue State Tracking](https://arxiv.org/pdf/2010.14061.pdf)* , ACL 2021 | **Transformer-DST** | [[Code](https://github.com/zengyan-97/Transformer-DST)]
+* *[Jointly Optimizing State Operation Prediction and Value Generation for Dialogue State Tracking](https://arxiv.org/pdf/2010.14061.pdf)* , arXiv preprint | **Transformer-DST** | [[Code](https://github.com/zengyan-97/Transformer-DST)]
 
   
 
