@@ -4,7 +4,7 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅ &nbsp;Last update : 21.08.20*
+*✅ &nbsp;Last update : 21.08.27*
 
 ###
 ###
@@ -29,7 +29,9 @@
 
 &nbsp;&ensp;&emsp;[3. SGD (Schema-Guided Dialogue)](#3-sgd-schema-guided-dialogue)
 
-&nbsp;&ensp;&emsp;[4. etc](#4-etc)
+&nbsp;&ensp;&emsp;[4. Data Limitation](#4-data-limitation)
+
+&nbsp;&ensp;&emsp;[5. etc](#5-etc)
 
 [🗂&nbsp; Datasets](#-3-datasets)
 
@@ -139,23 +141,15 @@
 #### 4) Zero,Few-Shot / Meta / Transfer learning
 
 * *[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)* , ACL 2019 | **TRADE** | [[Code](https://github.com/jasonwu0731/trade-dst)]
-
 * *[Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking](https://arxiv.org/pdf/2002.00181.pdf)* , AAAI 2020 | **SGP-DST** | `None`
-
 * *[Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)* , ACL 2020 | `None` | [[Code](https://github.com/stanford-oval/zero-shot-multiwoz-acl2020)]
-
+* *[From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap](https://arxiv.org/pdf/2004.05827.pdf)* , ACL 2020 | `None` |  `None`
 * *[MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/2009.12005.pdf)* , EMNLP 2020 | **MinTL** | [[Code](https://github.com/zlinao/MinTL)] 
-
 * *[Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue State Tracking](https://www.aclweb.org/anthology/2021.naacl-main.448.pdf)* , NAACL 2021 | `None` | `None`
-
 * *[Zero-shot Generalization in Dialog State Tracking through Generative Question Answering](https://www.aclweb.org/anthology/2021.eacl-main.91.pdf)* , EACL 2021 | `None` | `None`
-
 * *[Few Shot Dialogue State Tracking using Meta-learning](https://www.aclweb.org/anthology/2021.eacl-main.148.pdf)* , EACL 2021 | `None` | `None`
-
 * *[Domain Adaptive Meta-learning for Dialogue State Tracking](https://ieeexplore.ieee.org/abstract/document/9431715)* , TASLP | **DAMAML** | [[Code](https://github.com/DeepLearnXMU/DAMAML)]
-
 * *[Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/2106.00291.pdf)* , ACL 2021 | **ScCLog** | `None`
-
 * *[NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation](https://arxiv.org/pdf/2105.14454.pdf)* , ACL 2021 | **NeuralWOZ** | [[Code](https://github.com/naver-ai/neuralwoz)]
 
 
