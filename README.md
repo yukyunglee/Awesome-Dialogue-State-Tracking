@@ -4,7 +4,7 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅ &nbsp;Last update : 21.08.27*
+*✅ &nbsp;Last update : 21.08.29*
 
 ###
 ###
@@ -208,6 +208,7 @@
 * *[DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/pdf/2009.13570.pdf)* , arXiv preprint | **DialoGLUE** | [[Code](https://github.com/alexa/dialoglue)]
 * *[A Comparative Study on Schema-Guided Dialogue State Tracking](https://www.aclweb.org/anthology/2021.naacl-main.62.pdf)* , NAACL 2021 | `None` | `None`
 * *[Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?](https://arxiv.org/pdf/2105.03571.pdf)* , ACL 2021 | `None` | [[Code](https://github.com/yangpuhai/Granularity-in-DST)]
+* *[Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialog State Tracking](https://arxiv.org/pdf/2106.00291.pdf)* , ACL 2021 |  **SaCLog** | `None`
 * *[Coreference Augmentation for Multi-Domain Task-Oriented Dialogue State Tracking](https://arxiv.org/pdf/2106.08723.pdf)* , Interspeech 2021 | **CDST** | `None`
 
 
