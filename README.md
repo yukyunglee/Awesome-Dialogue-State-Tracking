@@ -78,7 +78,6 @@
 * *[HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf)* , Interspeech 2019 | **HyST** | `None`
 * *[Multi-domain dialogue state tracking as dynamic knowledge graph enhanced question answering](https://arxiv.org/pdf/1911.06192.pdf)* , arXiv preprint| **DSTQA** | [[Code](https://github.com/alexa/dstqa)]
 * *[Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks](https://speechlab.sjtu.edu.cn/papers/2020/lc918-chen-aaai20.pdf)* , AAAI 2020 | **SST** | `None`
-* *[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563.pdf)* , ACL 2020 | **CHAN-DST** | [[Code](https://github.com/smartyfh/CHAN-DST)]
 * *[Slot Self-Attentive Dialogue State Tracking](https://arxiv.org/pdf/2101.09374.pdf)* , WWW 2021 | **DST-STAR** | [[Code](https://github.com/smartyfh/DST-STAR)]
 * *[Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://arxiv.org/pdf/2104.04466.pdf)* , EMNLP 2021 |  `None` | [[Code](https://github.com/LinWeizheDragon/Knowledge-Aware-Graph-Enhanced-GPT-2-for-Dialogue-State-Tracking)]
 
