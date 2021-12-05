@@ -257,10 +257,11 @@
 
 * *[MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation](https://arxiv.org/pdf/2104.00773.pdf)* , arXiv preprint | **MultiWOZ 2.4** | en | [[Dataset](https://github.com/smartyfh/MultiWOZ2.4)]
 
+* *[BiToD: A Bilingual Multi-Domain Dataset For Task-Oriented Dialogue Modeling](https://arxiv.org/pdf/2106.02787.pdf)* , NeurIPS 2021 Dataset and Benchmark Track | **BiToD** | en, ch | [[Dataset](https://github.com/HLTCHKUST/BiToD)]
 
 #### Korean 
 
-* *[KLUE: Korean Language Understanding Evaluation](https://arxiv.org/pdf/2105.09680.pdf)* , arXiv preprint | **KLUE-DST/WoS** | kr | [[Dataset](https://klue-benchmark.com/)]
+* *[KLUE: Korean Language Understanding Evaluation](https://arxiv.org/pdf/2105.09680.pdf)* , NeurIPS 2021 Dataset and Benchmark Track | **KLUE-DST/WoS** | kr | [[Dataset](https://klue-benchmark.com/)]
 
 #### Chinese
 
@@ -268,6 +269,7 @@
 
 * *[RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling](https://aclanthology.org/2020.emnlp-main.67.pdf)* , EMNLP 2020 | **RiSAWOZ** | ch | [[Dataset](https://github.com/terryqj0107/RiSAWOZ)]
 
+* *[BiToD: A Bilingual Multi-Domain Dataset For Task-Oriented Dialogue Modeling](https://arxiv.org/pdf/2106.02787.pdf)* , NeurIPS 2021 Dataset and Benchmark Track | **BiToD** | en, ch | [[Dataset](https://github.com/HLTCHKUST/BiToD)]
 
 ###
 ## [4] Competition (DSTC)
