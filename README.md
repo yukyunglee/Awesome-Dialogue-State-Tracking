@@ -4,7 +4,7 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅ &nbsp;Last update : 21.09.06*
+*✅ &nbsp;Last update : 22.01.13*
 
 ###
 ###
@@ -45,7 +45,9 @@
 
 &nbsp;&ensp;&emsp;&nbsp;&ensp;&emsp;[Chinese](#chinese)
 
-[🏆&nbsp; Competition](#4-competition-dstc)
+[📌&nbsp; Evaluation Metrics](#4-evaluation-metrics)
+
+[🏆&nbsp; Competition](#5-competition-dstc)
 
 
 
@@ -271,8 +273,19 @@
 
 * *[BiToD: A Bilingual Multi-Domain Dataset For Task-Oriented Dialogue Modeling](https://arxiv.org/pdf/2106.02787.pdf)* , NeurIPS 2021 Dataset and Benchmark Track | **BiToD** | en, ch | [[Dataset](https://github.com/HLTCHKUST/BiToD)]
 
+## #
+
+##[4] Evaluation Metrics
+
+✅&nbsp; **Paper name, Venue | Metric name**
+
+* *[Global-Locally Self-Attentive Dialogue State Tracker](https://aclanthology.org/P18-1135.pdf)* , ACL 2018 | **Joint Goal Accuracy** 
+
+* *[Schema-Guided Dialogue State Tracking Task at DSTC8](https://arxiv.org/pdf/2002.01359.pdf)* , AAAI 2020 | **Average Goal Accuracy** 
+
 ###
-## [4] Competition (DSTC)
+
+## [5] Competition (DSTC)
 
 ### 1. Introduction
 
