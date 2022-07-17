@@ -4,7 +4,7 @@
 
 **Dialogue State Tracking (DST) Papers, Codes, Datasets, Resources**
 
-*✅ &nbsp;Last update : 22.01.13*
+*✅ &nbsp;Last update : 22.07.17*
 
 ###
 ###
@@ -125,6 +125,14 @@
 
 * *[Jointly Optimizing State Operation Prediction and Value Generation for Dialogue State Tracking](https://arxiv.org/pdf/2010.14061.pdf)* , arXiv preprint | **Transformer-DST** | [[Code](https://github.com/zengyan-97/Transformer-DST)]
 
+* *[Amendable Generation for Dialogue State Tracking](https://aclanthology.org/2021.nlp4convai-1.8.pdf)* , ACL 2021 | **AG-DST** | [[Code](https://github.com/PaddlePaddle/Knover/tree/develop/projects/AG-DST)]
+
+* *[UBAR: Towards Fully End-to-End Task-Oriented Dialog System with GPT-2](https://arxiv.org/pdf/2012.03539.pdf)* , AAAI 2021 | **UBAR** | [[Code](https://github.com/TonyNemo/UBAR-MultiWOZ)]
+
+* *[Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System](https://arxiv.org/pdf/2109.14739.pdf)* , ACL 2022 | **PPTOD** | [[Code](https://github.com/awslabs/pptod)]
+
+  
+  
   
 
 #### 3) Hybrid model (Ontology + Open vocab)
@@ -285,13 +293,15 @@
 
 * *[Mismatch between Multi-turn Dialogue and its Evaluation Metric in Dialogue State Tracking](https://arxiv.org/pdf/2203.03123.pdf)*, ACL 2022 | **Relative Slot Accuracy**
 
+* *[Towards Fair Evaluation of Dialogue State Tracking by Flexible Incorporation of Turn-level Performances](https://aclanthology.org/2022.acl-short.35.pdf)*, ACL 2022 | **Flexible Goal Accuracy**
+
 ###
 
 ## [5] Competition (DSTC)
 
 ### 1. Introduction
 
-**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related researches have been actively expanded, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC covers the various subjects of dialogue issues such as NLP, Vision, and Speech. The 10th challenge is now taking place with a total of 5 tracks. More information about DSTC can be found at the [link](https://sites.google.com/dstc.community/dstc10/).
+**DSTC** is the most famous competition in the field of Dialogue System. First held in 2013, DSTC started as a **Dialogue State Tracking Challenge**, but since the dialogue-related researches have been actively expanded, it has been relaunched as the **Dialogue System Technology Challenges**. DSTC covers the various subjects of dialogue issues such as NLP, Vision, and Speech. The 11th challenge is now taking place with a total of 5 tracks (divided two challenge periods) . More information about DSTC can be found at the [link](https://dstc11.dstc.community/).
 
 
 
