@@ -131,6 +131,8 @@
 
 * *[Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System](https://arxiv.org/pdf/2109.14739.pdf)* , ACL 2022 | **PPTOD** | [[Code](https://github.com/awslabs/pptod)]
 
+* *[DSTEA: Dialogue State Tracking with Entity Adaptive Pre-training](https://arxiv.org/pdf/2207.03858.pdf)* , arXiv preprint | **DSTEA** | `None`
+
   
   
   
