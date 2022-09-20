@@ -272,6 +272,10 @@
 
 * *[BiToD: A Bilingual Multi-Domain Dataset For Task-Oriented Dialogue Modeling](https://arxiv.org/pdf/2106.02787.pdf)* , NeurIPS 2021 Dataset and Benchmark Track | **BiToD** | en, ch | [[Dataset](https://github.com/HLTCHKUST/BiToD)]
 
+* *[KETOD: Knowledge-Enriched Task-Oriented Dialogue](https://arxiv.org/pdf/2205.05589.pdf)* , NAACL 2022 | **KETOD** | en | [[Dataset](https://github.com/facebookresearch/ketod)]
+
+* *[Multimodal Dialogue State Tracking](https://arxiv.org/pdf/2206.07898.pdf)* , NAACL 2022 | **DVD-DST** | en | [[Dataset](https://github.com/henryhungle/mm_dst)]
+
 #### Korean 
 
 * *[KLUE: Korean Language Understanding Evaluation](https://arxiv.org/pdf/2105.09680.pdf)* , NeurIPS 2021 Dataset and Benchmark Track | **KLUE-DST/WoS** | kr | [[Dataset](https://klue-benchmark.com/)]
