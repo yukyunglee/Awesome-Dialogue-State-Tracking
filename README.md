@@ -132,7 +132,7 @@
 
 * *[Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System](https://arxiv.org/pdf/2109.14739.pdf)* , ACL 2022 | **PPTOD** | [[Code](https://github.com/awslabs/pptod)]
 
-* *[DSTEA: Dialogue State Tracking with Entity Adaptive Pre-training](https://arxiv.org/pdf/2207.03858.pdf)* , arXiv preprint | **DSTEA** | `None`
+* *[DSTEA: Dialogue State Tracking with Entity Adaptive Pre-training](https://arxiv.org/pdf/2207.03858.pdf)* , KnowledgeNLP @ KDD 2023 | **DSTEA** | `None`
 
   
   
@@ -203,7 +203,7 @@
 
 * *[Annotation Inconsistency and Entity Bias in MultiWOZ](https://arxiv.org/pdf/2105.14150.pdf)* , SIGDIAL 2021 | `None`  | `None` 
 
-* *[Oh My Mistake!: Toward Realistic Dialogue State Tracking including Turnback Utterances](https://arxiv.org/pdf/2108.12637.pdf)* , arXiv preprint | `None`  | `None` 
+* *[Oh My Mistake!: Toward Realistic Dialogue State Tracking including Turnback Utterances](https://arxiv.org/pdf/2108.12637.pdf)* , SereTOD @ EMNLP 2022 | `None`  | `None` 
 
   
   
